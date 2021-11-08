@@ -4,7 +4,7 @@ NominalRate = ((EAR + 1)^(1/NPer) - 1) * NPer
 Viết 2 hàm: EAR và NominalRate. Thử chạy hàm EAR với các tham số vào: NominalRate = 10%, NPer = 12; rồi chạy hàm NominalRate với tham số vào là giá trị EAR vừa mới tính. Làm tròn 2 chữ số sau phần thập phân.
 
 Màn hình kết quả:
-![Image of kq1](https://raw.githubusercontent.com/nhungnth406/py_basic/master/img/exercises/BT1-1.png) <br/>
+![Image of kq1](https://github.com/nhungnth406/py_basic/blob/main/exercises/img/BT1-1.png) <br/>
 -----------------
 My solution:
 
