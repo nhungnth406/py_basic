@@ -1,4 +1,5 @@
 Q1: Input D.O.B. Calculate days remaining to a birthday.
+
 -----------------
 My solution:
 ```python
@@ -36,6 +37,7 @@ while next == True:
 =============================================
 
 Q2: Create a triangle class, class triangle has properties that are 3 sides of the triangle, 2 methods are to calculate the perimeter and area of the triangle, 1 attribute counts how many triangles have been created?
+
 -----------------
 My solution:
 ```python
